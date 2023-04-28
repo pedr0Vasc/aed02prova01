@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1682705545 source:c:\users\ifam_cmzl\documents\prova\prova01\questao01.c
+	<stdio.h>
+	<stdlib.h>
+
+1682705574 source:c:\users\ifam_cmzl\documents\prova\prova01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"questao01.h"
+	"questao02.h"
+
+1682703192 c:\users\ifam_cmzl\documents\prova\prova01\questao01.h
+
+1682705607 c:\users\ifam_cmzl\documents\prova\prova01\questao02.h
+
